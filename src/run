@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac fabriciojf/com/BinaryTree.java 
+java fabriciojf.com.BinaryTree
