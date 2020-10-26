@@ -37,7 +37,7 @@ public class BinaryTree {
         Node node2 = new Node(4, 5, "+");
     
         try {
-            int value = new BinaryTree().run(node1, node2, "9");
+            int value = new BinaryTree().run(node1, node2, "*");
             System.out.println(value);
         } catch(Exception e) {
             System.out.println("Problems calculating the Tree, please verify the code!");            
